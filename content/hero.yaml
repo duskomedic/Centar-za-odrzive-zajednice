@@ -1,13 +1,13 @@
-headline: The perfect template to showcase your awesome product and service.
+headline: Centar za održive zajednice
 
-body: Aenean condimentum, lacus sit amet luctus lobortis, dolores et quas molestias excepturi enim tellus ultrices elit, amet consequat enim elit noneas sit amet luctu. Quis nostrum exercitationem ullam corporis suscipit laboriosam.
+body: Udruženje građana „CENTAR ZA ODRŽIVE ZAJEDNICE“ dobrovoljno je, nevladino i neprofitno udruženje čija je misija da pomogne nevladinim organizacijama, lokalnim samoupravama i drugim partnerima u brizi za životnu sredinu, da stimuliše održivi razvoj, međusektorsku saradnju, osnažuje građanske inicijative i učešće građana u javnim poslovima. Misija organizacije je da unapređuje i naučna i stručna istraživanja, informisanje, obrazovanje i kulturu.
 
 button1:
-  label: Free Trial
-  to: '/#'
+  label: Više o nama
+  to: '/#testimonials'
 
 button2:
-  label: Learn More
+  label: Naši projekti
   to: '/#features'
 
 image: images/hero-image.png
