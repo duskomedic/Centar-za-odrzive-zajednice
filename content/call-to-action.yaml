@@ -1,7 +1,7 @@
 title: 
   text: Projektno sufinansiranje medija u Srbiji
-  url: https://tixwitchy.shinyapps.io/Projektno_sufinansiranje_medija_Srbija/
+  url: 'https://centarzaodrzivezajednice.shinyapps.io/Projektno_sufinansiranje_medija_u_Srbiji/'
 body: 'Ukoliko želite da preuzemte kod ove naše aplikacije, naćićete ga na <a href="https://github.com/duskomedic"><span>na našem GitHub-u</span></a>. '
 button:
   label: Pogledajte aplikaciju
-  url: 'https://tixwitchy.shinyapps.io/Projektno_sufinansiranje_medija_Srbija/'
+  url: 'https://centarzaodrzivezajednice.shinyapps.io/Projektno_sufinansiranje_medija_u_Srbiji/'
